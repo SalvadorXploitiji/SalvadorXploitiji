@@ -13,19 +13,13 @@ Hi! My name is SalvadorXploitiji. I am a big fan of Node.js and love spending my
 
 ## Recent Projects
 
-1. **Project 1**
-    - Description: This project is a web application built using Node.js and Express.js.
-    - [Repo](https://github.com/SalvadorXploitiji/Project1)
+1. **SALXTOOLS**
+    - This is my first tool that I created using Node.js.
+    - [Repo](https://github.com/SalvadorXploitiji/salxtools)
     
-2. **Project 2**
-    - Description: This project is a Telegram bot built using Node.js.
-    - [Repo](https://github.com/SalvadorXploitiji/Project2)
-    
-3. **Project 3**
-    - Description: This project is a CLI application for managing daily tasks.
-    - [Repo](https://github.com/SalvadorXploitiji/Project3)
+
 
 ## Contact
 
 You can reach me through:
-- **Email**: [salvador@example.com](mailto:salvador@example
+- **Telegram**: https://t.me/joharisalmon
