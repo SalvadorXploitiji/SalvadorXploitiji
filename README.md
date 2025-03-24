@@ -28,4 +28,5 @@ Hi! My name is SalvadorXploitiji. I am a big fan of Node.js and love spending my
 ## I loved to learn
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
