@@ -24,3 +24,8 @@ Hi! My name is SalvadorXploitiji. I am a big fan of Node.js and love spending my
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SalvadorXploitiji)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/h4xors4lx)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb0pAOWBlHpkInEvMQ1N)
+
+## I loved to learn
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
